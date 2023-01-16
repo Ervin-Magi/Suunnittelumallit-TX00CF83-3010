@@ -1,2 +1,1 @@
-
-# Kilpa_robotti
+# Lego-robotit 2020a2 (Java)
